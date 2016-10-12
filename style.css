@@ -1,0 +1,30 @@
+#top_row {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/f/fa/Toronto_Evening_Skyline_HDR.jpg);
+    font-family: impact;
+    font-size: 175%;
+    
+
+}
+#menu_bar {
+    background-color:#717171;
+    height:10%
+    
+}
+.Menu_Element{
+    border-style:solid;
+    border-width:1px;
+    border-color:black;
+    height:100%;
+    padding-bottom:3%;
+    font-family:impact;
+}
+.Menu_Element:hover{
+    color:white;
+    background-color:#b6b6b6;
+    border-color:white;
+    
+}
+a:visited{
+    color:black;
+    
+}
